@@ -6,7 +6,7 @@ In this activity, you'll create a new React-based Google Books Search app. This 
 
 ### Commits
 
-Having an active and healthy commit history on GitHub is important for your future job search. It is also extremely important for making sure your work is saved in your repository. If something breaks, committing often ensures you are able to go back to a working version of your code.
+Having an active and healthy commit history on GitHub is important for your future job search. It is also extremely important for making sure your work is saved in your repository. If something breaks, commit ting often ensures you are able to go back to a working version of your code.
 
 * Committing often is a signal to employers that you are actively working on your code and learning.
 
