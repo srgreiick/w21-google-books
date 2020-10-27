@@ -3,7 +3,7 @@ import API from "../utils/API";
 import Jumbotron from "../components/Jumbotron";
 import { Container, Row, Col } from "../components/Grid";
 import SearchForm from "../components/SearchForm";
-import SearchResult from "../components/SavedBooks"
+import SearchResult from "../components/SearchResult"
 
 
 class SearchBooks extends Component {
